@@ -1,5 +1,5 @@
 # Job Prediction Service - phase1
-Job Prediction Service Phase 1- In the first phase,we are Researching, Collecting raw data and cleaning the dataset.
+Job Prediction Service Phase 1- In the first phase,we are Researching, Collecting raw data, cleaning the dataset and Exploratory data analysis(EDA).
 
 **Data Source:-** The Data is taken from Kaggle site for offering analysis on the “LinkedIn job posting-2023” data. This dataset contains a comprehensive record of 15,000+ job postings listed over the course of 2 days. Each posting contains 27 features or attributes like, title, job description, salary, work-types etc.
 
